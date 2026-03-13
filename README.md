@@ -1,4 +1,4 @@
-# STEMREM iEVT vs. CC Comparison
+# STEMREM iEVT vs. Breast Cancer Comparison
 STEMREM Course Project.
 
 # :)
