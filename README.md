@@ -13,7 +13,7 @@ Analysis performed in Python (Scanpy / AnnData) using:
 - differential gene expression
 - GSEA and ORA pathway enrichment
 - spatial transcriptomic scoring of invasion gene programs
-- Jupyter Notebook and Google Colab as IDEs
+- Jupyter Notebook / Google Colab as IDEs
 
 ## Key Finding
 Developmental invasion programs used by trophoblasts appear to be repurposed by breast cancer cells during tumor invasion, particularly at the tumor–stroma interface.
